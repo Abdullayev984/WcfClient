@@ -1,0 +1,8 @@
+C:\Users\neyme\source\repos\WcfClient\WcfClient\bin\Debug\WcfClient.exe.config
+C:\Users\neyme\source\repos\WcfClient\WcfClient\bin\Debug\WcfClient.exe
+C:\Users\neyme\source\repos\WcfClient\WcfClient\bin\Debug\WcfClient.pdb
+C:\Users\neyme\source\repos\WcfClient\WcfClient\obj\Debug\WcfClient.csproj.AssemblyReference.cache
+C:\Users\neyme\source\repos\WcfClient\WcfClient\obj\Debug\WcfClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\neyme\source\repos\WcfClient\WcfClient\obj\Debug\WcfClient.csproj.CoreCompileInputs.cache
+C:\Users\neyme\source\repos\WcfClient\WcfClient\obj\Debug\WcfClient.exe
+C:\Users\neyme\source\repos\WcfClient\WcfClient\obj\Debug\WcfClient.pdb
